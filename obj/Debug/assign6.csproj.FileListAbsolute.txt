@@ -1,0 +1,12 @@
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\bin\Debug\assign6.exe.config
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\bin\Debug\assign6.exe
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\bin\Debug\assign6.pdb
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.csprojAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.MainForm.resources
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.Properties.Resources.resources
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.exe
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.pdb
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.AboutBox.resources
+C:\Users\benja\OneDrive\Documents\malmo\c#\assign6\obj\Debug\assign6.csproj.AssemblyReference.cache
